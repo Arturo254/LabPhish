@@ -22,6 +22,13 @@ mtools
 
 ``` 
 
+# IMAGEN DESCRIPTIVA
+
+[![1674066088443-100.png](https://i.postimg.cc/SKzHx0gD/1674066088443-100.png)](https://postimg.cc/WDT55yLk)
+
+
+
+
 # INSTALACION LINUX 
 
 
