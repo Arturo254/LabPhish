@@ -47,7 +47,9 @@ SIEMPRE termina en : .try.cloudflared.com
 
 ```
 
-cloudflared 
+cloudflared tunnel --url 127.0.0.1:5555 
+
+```
 
 # INSTALACION LINUX 
 
