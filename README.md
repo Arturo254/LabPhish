@@ -29,6 +29,11 @@ mtools
 
 
 
+
+# VIDEO DEMOSTRATIVO 
+[![asciicast](https://asciinema.org/a/aqLXEMwlK3BGYQMiEDCLe5ZhB.svg)](https://asciinema.org/a/aqLXEMwlK3BGYQMiEDCLe5ZhB)
+
+
 # INSTALACION LINUX 
 
 
