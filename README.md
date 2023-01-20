@@ -34,6 +34,21 @@ mtools
 [![asciicast](https://asciinema.org/a/aqLXEMwlK3BGYQMiEDCLe5ZhB.svg)](https://asciinema.org/a/aqLXEMwlK3BGYQMiEDCLe5ZhB)
 
 
+
+# USO de Cloudflared :
+[![asciicast](https://asciinema.org/a/Q7KezupisMdGrSyJW1lb6z3tB.svg)](https://asciinema.org/a/Q7KezupisMdGrSyJW1lb6z3tB) 
+
+
+IMPORTANTE :
+Cuando inicie el servidor la url que proporciona 
+SIEMPRE termina en : .try.cloudflared.com 
+
+# COMANDOS PARA CLOUDFLARED :
+
+```
+
+cloudflared 
+
 # INSTALACION LINUX 
 
 
